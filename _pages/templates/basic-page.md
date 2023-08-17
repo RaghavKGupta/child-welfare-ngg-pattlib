@@ -7,7 +7,7 @@ permalink: /templates/basic/
 overview: The basic page template is used for information or documentation. 
 
 description: |
-  The basic page template is used for information or documentation often as the finial destination page in a user's journey. The template was constucted to allow for some variations which allows flexibility to use for pages such as Contact Us or About. Options include ability to show the background color behind the page header as well as using either vertial tabs or accordions to control content.
+  The basic page template is used for information or documentation often as the finial destination page in a user's journey. The template was constucted to allow for some variations which allows flexibility to use for pages such as Contact Us or About. Options include ability to show the background color behind the page header as well as using either vertial tabs or accordions to control content. someocjamhe here
 
 details: |
   ### Guidance
